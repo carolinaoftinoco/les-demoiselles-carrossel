@@ -1,4 +1,4 @@
-**PROJETO "CARROSSEL DO FILME 'LES DEMOISELLES DE ROCHEFORT'"** (ABR/23)
+**PROJETO "CARROSSEL DO FILME 'LES DEMOISELLES DE ROCHEFORT'"** (MAR/23)
 
 <p>Apresento-lhes "Les Demoiselles de Rochefort" (FRA, 1967), uma das maiores pérolas do cineasta Jacques Demy.</p>
 
