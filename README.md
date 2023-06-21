@@ -21,5 +21,4 @@
 
 ![les-demoiselles-carrossel](https://github.com/carolinaoftinoco/les-demoiselles-carrossel/blob/main/les-demoiselles-carrossel.gif)
 
-
 Clique [aqui](https://carolinaoftinoco.github.io/les-demoiselles-carrossel/) para conferir.
