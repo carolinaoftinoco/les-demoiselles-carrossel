@@ -17,7 +17,11 @@
 **LINGUAGEM UTILIZADA**
 
 - JavaScript
-<br>
+- 
+**OBSERVAÇÕES**
+
+<p>Em reforma.</p>
+<p>Obrigada!</p>
 
 ![les-demoiselles-carrossel](https://github.com/carolinaoftinoco/les-demoiselles-carrossel/blob/main/les-demoiselles-carrossel.gif)
 
