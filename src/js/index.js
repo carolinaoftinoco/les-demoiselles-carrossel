@@ -9,7 +9,7 @@ const descricoes = [
     "A elegante e refinada Sra. Yvonne é a mãe das gêmeas. Maxence, um marinheiro que se torna importante ao longo da trama, é um dos principais personagens masculinos.",
     "Andy e Sr. Dame representam parte do elenco que contribui para a riqueza das relações humanas neste clássico.",
     "Delphine e Solange compartilham momentos inesquecíveis ao longo da narrativa, enfrentando os desafios do amor e da vida em Rochefort.",
-    "O enigmático fim de \"Les Demoiselles de Rochefort\" reserva surpresas e conclusões que consolidam esta obra como um clássico imperecível do cinema musical. Trata-se de um longa-metragem digno de todos aqueles que apreciam uma boa e requintada película repleta de charme e mistério."
+    "O enigmático desfecho de \"Les Demoiselles de Rochefort\" reserva surpresas e conclusões que consolidam esta obra como um clássico imperecível do cinema musical. Trata-se de um longa-metragem digno de todos aqueles que apreciam uma boa e requintada película repleta de charme e mistério."
 ];
 
 botoesCarrossel.forEach((botao, indice) => {
