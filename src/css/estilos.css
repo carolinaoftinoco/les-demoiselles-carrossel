@@ -20,7 +20,6 @@ main:after {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    justify-content: space-evenly;
 }
 
 .informacoes .logo {
@@ -39,7 +38,11 @@ main:after {
 .botoes-carrossel {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 12px;
+    flex-wrap: nowrap;
+    margin-top: auto;
+    padding-bottom: 30px;
 }
 
 .botoes-carrossel .botao {
@@ -104,10 +107,10 @@ main:after {
 }
 
 @keyframes mudarImagem {
-    from{
+    from {
         opacity: 0.85;
     }
-    to{
+    to {
         opacity: 1;
     }
 }
