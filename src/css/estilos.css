@@ -22,6 +22,10 @@ main:after {
     min-height: 100vh;
 }
 
+.informacoes {
+    margin-top: 50px;
+}
+
 .informacoes .logo {
     max-width: 430px;
     margin-bottom: 40px;
